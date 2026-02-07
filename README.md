@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Building interactive worlds with Unity, C#, and Unreal Engine <br>🎓 3rd-year Digital Game Design student focused on game mechanics <br>🎸 Metalhead, electric guitar player, and history buff <br>📍 Based in Kayseri, Turkey <br>🚀 Ex-Intern @ UDO Games & Entegrev <br>🕹️ Follow my dev journey on Itch.io[![Itch.io](https://img.shields.io/badge/Itchio-%23E4405F.svg?logo=Itchio&logoColor=white)](https://ibrahim-gumusdal.itch.io)
+🎮 Building interactive worlds with Unity, C#, and Unreal Engine <br>🎓 3rd-year Digital Game Design student focused on game mechanics <br>🎸 Metalhead, electric guitar player, and history buff <br>📍 Based in Kayseri, Turkey <br>🚀 Ex-Intern @ UDO Games & Entegrev <br>🕹️ Follow my dev journey on [![Itch.io](https://img.shields.io/badge/Itchio-%23E4405F.svg?logo=Itchio&logoColor=white)](https://ibrahim-gumusdal.itch.io)
 
 
 ## 🌐 Socials:

@@ -1,4 +1,4 @@
-# 💻 Porfolio: 
+# 💻 Portfolio: 
 https://tinyurl.com/ibrahimgumusdal
 
 # 💫 About Me: 
